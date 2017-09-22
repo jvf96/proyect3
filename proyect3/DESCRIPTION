@@ -1,0 +1,15 @@
+Package: proyect3
+Type: Package
+Title: Lab3 Assigment
+Version: 1.0
+Date: 2017-09-15
+Authors@R: c(
+    person("Jorge", "Villar Fuentes", email = "jorvi903@student.liu.se", role = "cre"),
+    person("Ashmaful", "Alam", email = "ashas926@student.liu.se", role = "aut"))
+Maintainer: Jorge Villar Fuentes <jorgevillarfuentes@hotmail.com>
+Description: The lab constists of writing a package.
+License: CC0
+RoxygenNote: 6.0.1
+LazyData: true
+Suggests: testthat
+Depends: R (>= 2.10)
